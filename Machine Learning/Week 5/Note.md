@@ -1,8 +1,14 @@
-# 123
+# Precision/Recall
 
-!\[image\]\(../../res/images/WechatIMG6315.jpeg\)
+## Precision(准确率)
+$$
+Precision = \frac{True\ positives}{\#\ predicted\ as\ positive} = \frac{True\ positives}{True\ positives + False\ positives}
+$$
+$$
+Recall = \frac{True\ positives}{\#\ actual\ positive} = \frac{True\ positives}{True\ positives + False\ negatives}
+$$
 
-
+## Recall(召回率)
 
 
 
